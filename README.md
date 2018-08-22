@@ -1,2 +1,2 @@
 # vimrc
-My personal .vimrc file ... man has this saved my ass more than once. ;)
+My personal .vimrc file ... this repo has saved my ass more than once. ;)
