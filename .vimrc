@@ -70,6 +70,8 @@ set splitright
 " Use pathogen.vim to automatically load modules in the ~/.vim/bundle
 " directory:
 "
+"i pathogen.vim : https://github.com/tpope/vim-pathogen
+"
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
