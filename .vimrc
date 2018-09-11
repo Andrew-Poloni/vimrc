@@ -67,6 +67,13 @@ set showmatch
 set splitbelow
 set splitright
 "
+" Use pathogen.vim to automatically load modules in the ~/.vim/bundle
+" directory:
+"
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+"
 " Allow VIm to autoread files changed outside the editor:
 "
 " let autoreadargs={'autoread':1} 
@@ -99,3 +106,5 @@ set statusline=%F\ -\ FileType:\ %y
 " http://vim.wikia.com/wiki/Have_Vim_check_automatically_if_the_file_has_changed_externally
 "
 " TBD
+"
+"
