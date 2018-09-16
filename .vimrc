@@ -90,7 +90,7 @@ set timeout ttimeout timeoutlen=200
 "
 set scrolloff=5
 "
-"Configure VIm to write all files if the focus is lost on the VIm window:
+" Configure VIm to write all files if the focus is lost on the VIm window:
 "
 set autowriteall
 "
